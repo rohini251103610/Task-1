@@ -1,0 +1,43 @@
+ul{
+    list-style-type: none;
+    background-color:cornflowerblue;
+    height:100%;
+    margin:0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+ul a{
+    text-decoration: none;
+}
+
+li{
+    display:inline;
+    padding:60px;
+    color:black;
+    font-size:20px;
+    
+}
+h1{
+    text-align: center;
+}
+.img1{
+    padding: 50px;
+}
+.img2{
+    padding: 50px;
+}
+.img3{
+    padding: 50px;
+}
+.para{
+    text-decoration:underline;
+    text-align: right;
+}
+.pix{
+    text-decoration:underline;
+    text-align: right;
+}
+
+
